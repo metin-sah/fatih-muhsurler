@@ -1,0 +1,4 @@
+Görüntü: Tamamı kodla üretildi (Woodcut Print motoru, Lemo-Opuscar kütüphanesi). Stok görsel yok.
+Müzik ve efekt: Tamamı numpy ile özgün sentez. Örnek kütüphanesi yok.
+Font: Fraunces, SIL Open Font License 1.1 (Google Fonts).
+Ses: Google Gemini TTS (gemini-3.8-flash-tts), Algenib sesi. Yapay ses; koşullar: ai.google.dev/gemini-api/terms

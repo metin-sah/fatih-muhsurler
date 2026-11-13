@@ -1,0 +1,18 @@
+<form class="form rv" id="form" data-quote novalidate>
+  <h2>Teklif formu</h2>
+  <p>Formu doldurun; gönderdiğinizde e-posta uygulamanız hazır metinle açılır.</p>
+  <div class="fields">
+    <div class="field"><label for="f-ad">Ad soyad <i>*</i></label><input id="f-ad" name="ad" autocomplete="name" required></div>
+    <div class="field"><label for="f-firma">Firma</label><input id="f-firma" name="firma" autocomplete="organization"></div>
+    <div class="field"><label for="f-tel">Telefon <i>*</i></label><input id="f-tel" name="telefon" type="tel" autocomplete="tel" inputmode="tel" required></div>
+    <div class="field"><label for="f-bas">Tahmini baş sayısı</label><input id="f-bas" name="bas" inputmode="numeric"></div>
+    <div class="field full"><label for="f-mesaj">Mesaj</label><textarea id="f-mesaj" name="mesaj"></textarea></div>
+  </div>
+  <div class="form-foot">
+    <small>Bilgileriniz yalnızca size dönüş yapmak için kullanılır. <a href="/kvkk">Ayrıntılar</a></small>
+    <button class="btn btn-copper" type="submit">Gönder <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M1 8h14M9 2l6 6-6 6"/></svg></button>
+  </div>
+  <p class="form-status" role="status" aria-live="polite"></p>
+  <noscript><p class="form-status">Form için tarayıcınızda JavaScript açık olmalı. Bize 0272 246 46 46 ya da fatihmuhsurler@hotmail.com üzerinden ulaşabilirsiniz.</p></noscript>
+  <p class="form-or">ya da arayın: <a href="tel:+902722464646">0272 246 46 46</a></p>
+</form>

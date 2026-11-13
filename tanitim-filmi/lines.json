@@ -1,0 +1,65 @@
+[
+{
+"id": "L1",
+"text": "1955. Selahattin Mühsürler, karkas eti trenle İstanbul'a götürüyor.",
+"say": "Bin dokuz yüz elli beş. Selahattin Mühsürler, karkas eti trenle İstanbul'a götürüyor.",
+"asr": "Bin dokuz yüz elli beş. Selahattin Mühsürler, karkas eti trenle İstanbul'a götürüyor.",
+"voice": "tr-TR-AhmetNeural",
+"rate": "-6%",
+"pitch": "-32Hz"
+},
+{
+"id": "L2",
+"text": "2001. Afyonkarahisar'da entegre tesis kuruluyor.",
+"say": "İki bin bir. Afyonkarahisar'da entegre tesis kuruluyor.",
+"asr": "İki bin bir. Afyonkarahisar'da entegre tesis kuruluyor.",
+"voice": "tr-TR-AhmetNeural",
+"rate": "-10%",
+"pitch": "-32Hz"
+},
+{
+"id": "L3",
+"text": "600 büyükbaş besi kapasitesi",
+"say": "Altı yüz büyükbaş besi kapasitesi.",
+"asr": "Altı yüz büyükbaş besi kapasitesi.",
+"voice": "tr-TR-AhmetNeural",
+"rate": "-6%",
+"pitch": "-32Hz"
+},
+{
+"id": "L4",
+"text": "Günde 400 baş kesim kapasitesi",
+"say": "Günde dört yüz baş kesim kapasitesi.",
+"asr": "Günde dört yüz baş kesim kapasitesi.",
+"voice": "tr-TR-AhmetNeural",
+"rate": "-6%",
+"pitch": "-32Hz"
+},
+{
+"id": "L5",
+"text": "120 ton soğuk hava kapasitesi",
+"say": "Yüz yirmi ton soğuk hava kapasitesi.",
+"asr": "Yüz yirmi ton soğuk hava kapasitesi.",
+"voice": "tr-TR-AhmetNeural",
+"rate": "-6%",
+"pitch": "-32Hz"
+},
+{
+"id": "L6",
+"text": "Sevkiyat, kendi frigorifik araçlarımızla",
+"say": "Sevkiyat, kendi frigorifik araçlarımızla.",
+"asr": "Sevkiyat, kendi frigorifik araçlarımızla.",
+"voice": "tr-TR-AhmetNeural",
+"rate": "-14%",
+"pitch": "-32Hz"
+},
+{
+"id": "L7",
+"text": "Fatih Mühsürler Et Entegre Tesisleri",
+"say": "Fatih Mühsürler Et Entegre Tesisleri. Besiden sofraya, tek çatı altında.",
+"asr": "Fatih Mühsürler Et Entegre Tesisleri. Besiden sofraya, tek çatı altında.",
+"voice": "tr-TR-AhmetNeural",
+"rate": "-12%",
+"pitch": "-32Hz"
+}
+]
