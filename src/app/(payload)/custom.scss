@@ -1,0 +1,21 @@
+/* Fatih Mühsürler yönetim paneli teması: kömür, krem ve bakır */
+:root {
+  --brand-coal: #1c1917;
+  --brand-copper: #b87333;
+}
+html[data-theme='light'] {
+  --theme-elevation-0: #faf7f2;
+}
+.template-default__nav,
+.nav {
+  border-right: 1px solid rgba(184, 115, 51, 0.35);
+}
+.btn--style-primary {
+  --bg-color: #1c1917;
+  --hover-bg: #2e2925;
+  --color: #f4ede1;
+}
+.login .form-header,
+.template-minimal__wrap {
+  border-top: 3px solid var(--brand-copper);
+}
